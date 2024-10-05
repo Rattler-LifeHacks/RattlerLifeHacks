@@ -1,5 +1,8 @@
 # RattlerLifeHacks
 ## Table of Contents
+- [Overview](#overview)
+- [Product Spec](#Product Spec)
+- [Wireframes](#wireframes)
 ## Overview
 ### Description
 
