@@ -56,3 +56,7 @@ Comment</p>
 ## Wireframes
 
 ![handrawn_wireframe](https://github.com/user-attachments/assets/ffda628d-e892-49b0-808d-457664ddbe86)
+
+### Digital Wireframe
+![Screen Shot 2024-10-05 at 4 20 14 PM](https://github.com/user-attachments/assets/315411f5-6e2a-4399-b914-45b3ae02033e)
+
