@@ -28,8 +28,6 @@ The Rattler Life Hacks app is a comprehensive platform designed to enhance the s
 <li>User can create a new student account</li>
 <li>User can login</li>
 <li>User can search for events</li>
-<li>User can like events</li>
-<li>User can follow/unfollow campus organizations</li>
 <li>User can view a feed of events</li>
 <li>User can tap their RattlerCard</li>
 <li>User can see food/financial aid wait times</li>
@@ -39,6 +37,8 @@ The Rattler Life Hacks app is a comprehensive platform designed to enhance the s
 #### Optional Nice-to-have Stories
 
 <ul>
+<li>User can like events</li>
+<li>User can follow/unfollow campus organizations</li>
 <li>User can add a comment to an event</li>
 <li>User can tap an event flyer to view a more detailed screen with other users comments</li>
 <li>User can see trending events</li>
@@ -77,6 +77,7 @@ The Rattler Life Hacks app is a comprehensive platform designed to enhance the s
   </ul>
 <li>Home Page- User can view the "Welcome to the Hill Rattlers!" display.</li>
 </ul>
+
 ### 3. Navigation
 **Tab Navigation:**
 (Appears as three dots in the corner and opens after being pressed)
