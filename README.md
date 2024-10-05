@@ -53,6 +53,30 @@ The Rattler Life Hacks app is a comprehensive platform designed to enhance the s
 </ul>
 
 ### 2. Screens 
+<ul>
+<li>Registration- User signs up or logs into their account</li>
+  <ul>
+    <li>Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person.    
+    </li>
+  </ul>
+<li>RattlerCard- User can access their Rattler card and see their balances.</li>
+  <ul>
+  <li>Upon selecting the Rattler icon, this screen will open.</li>
+  </ul>
+<li>Calendar Screen- User can add their personal events, assignments, birthdays, etc. on this calendar page to organize themselves.</li>
+  <ul>
+    <li>Upon selecting the Calendar icon, this screen will open.</li>
+  </ul>
+<li>Wait times- User can view the wait times of their favorite on campus food spots as well as offices such as financial aid. They are also able to see study room availability and book study rooms in Coleman.</li>
+  <ul>
+    <li>Upon selecting the Clock icon, this screen will open.</li>
+  </ul>
+<li>Home Page- User can view all of the campuses upcoming events</li>
+  <ul>
+    <li>Upon scrolling below the home page, users can access this screen.</li>
+  </ul>
+<li>Home Page- User can view the "Welcome to the Hill Rattlers!" display.</li>
+</ul>
 ### 3. Navigation
 **Tab Navigation:**
 (Appears as three dots in the corner and opens after being pressed)
