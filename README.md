@@ -13,7 +13,7 @@ The Rattler Life Hacks app is a comprehensive platform designed to enhance the s
 - **Habit:** This app will be helpful at all times of the day. Since the app houses a 'live' feature, it will always be up to date and ready when a student needs it.
 - **Scope:** The app would start by providing live wait times for financial aid, study rooms, and campus dining, helping students manage their time more efficiently. It would then expand to include live event check-ins for easy attendance tracking and a virtual school ID for seamless access to campus services. Over time, the app could integrate with campus systems for booking services, pre-ordering meals, and scheduling appointments, with the potential to partner with broader student platforms to enhance engagement and usage.
 ## Product Spec
-### 1. User Stories
+### 1. User Stories (Required and Optional)
 <p>To kick off this session, we want to list out the things a user can do within our app, and tag them as "must-have" (required) or "nice-to-have" (optional)
 Comment</p>
 
