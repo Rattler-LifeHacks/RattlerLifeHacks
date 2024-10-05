@@ -1,5 +1,5 @@
-# <strong>RattlerLifeHacks</strong>
-## <strong>Table of Contents</strong>
+# RattlerLifeHacks
+## **Table of Contents**
 ## Overview
 ### Description
 
