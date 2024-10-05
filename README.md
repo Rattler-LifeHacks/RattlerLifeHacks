@@ -19,29 +19,37 @@ Comment</p>
 
 #### Required Must-have Stories
 
-<p>For Instagram, we identified the following "must-have" features which a user needs to be able to perform for the app to work:</p>
+<p>For Rattlers LifeHacks, we identified the following "must-have" features which a user needs to be able to perform for the app to work:</p>
 
 <ul> 
-<li>User can post a new photo to their feed</li>
-<li>User can create a new account</li>
+<li>User can post their campus events</li>
+<li>User can create a new organization account</li>
+<li>User can create a new student account</li>
 <li>User can login</li>
-<li>User can search for other users</li>
-<li>User can like a photo</li>
-<li>User can follow/unfollow another user</li>
-<li>User can view a feed of photos</li>
+<li>User can search for events</li>
+<li>User can like events</li>
+<li>User can follow/unfollow campus organizations</li>
+<li>User can view a feed of events</li>
+<li>User can tap their RattlerCard</li>
+<li>User can see food/financial aid wait times</li>
+<li>User can view study room availability</li>
 </ul>
 
 #### Optional Nice-to-have Stories
 
-<li>User can add a comment to a photo</li>
-<li>User can tap a photo to view a more detailed photo screen with comments</li>
-<li>User can see trending photos</li>
-<li>User can search for photos by a hashtag</li>
-<li>User can see notifications when their photo is liked or they are followed</li>
-<li>User can see their profile page with their photos</li>
-<li>User can see a list of their followers</li>
-<li>User can see a list of their following</li>
-<li>User can view other user's profiles and see their photo feed</li>
+<ul>
+<li>User can add a comment to an event</li>
+<li>User can tap a event flyer to view a more detailed screen with other users comments</li>
+<li>User can see trending events</li>
+<li>User can search for events by organization</li>
+<li>User can see notifications when an event is upcoming</li>
+<li>User can join their organization</li>
+<li>User can mark attending at an event</li>
+<li>User can see a list of who will be attending an event</li>
+<li>User can see a list of people in an organization</li>
+<li>User can view other organization's profiles and see their eventfeed</li>
+<li>User can join a financial aid queue</li>
+</ul>
 
 ### 2. Screens 
 ### 3. Navigation
