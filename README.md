@@ -39,7 +39,7 @@ Comment</p>
 
 <ul>
 <li>User can add a comment to an event</li>
-<li>User can tap a event flyer to view a more detailed screen with other users comments</li>
+<li>User can tap an event flyer to view a more detailed screen with other users comments</li>
 <li>User can see trending events</li>
 <li>User can search for events by organization</li>
 <li>User can see notifications when an event is upcoming</li>
@@ -54,4 +54,5 @@ Comment</p>
 ### 2. Screens 
 ### 3. Navigation
 ## Wireframes
-!(/Downloads/handrawn_wireframe.jpg)
+
+![handrawn_wireframe](https://github.com/user-attachments/assets/ffda628d-e892-49b0-808d-457664ddbe86)
