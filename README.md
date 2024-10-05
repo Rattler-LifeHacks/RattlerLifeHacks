@@ -54,6 +54,14 @@ The Rattler Life Hacks app is a comprehensive platform designed to enhance the s
 
 ### 2. Screens 
 ### 3. Navigation
+**Tab Navigation:**
+(Appears as three dots in the corner and opens after being pressed)
+- Login / profile
+- Home
+- Calendar
+- Rattler Card
+- Live Wait Times
+  
 ## Wireframes
 
 ![handrawn_wireframe](https://github.com/user-attachments/assets/ffda628d-e892-49b0-808d-457664ddbe86)
