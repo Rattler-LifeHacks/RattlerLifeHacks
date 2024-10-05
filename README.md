@@ -1,4 +1,4 @@
-# RattlerLifeHacks
+# <strong>RattlerLifeHacks<strong>
 ## Table of Contents
 ## Overview
 ### Description
