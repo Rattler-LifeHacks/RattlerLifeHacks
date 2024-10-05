@@ -39,7 +39,6 @@ Comment</p>
 <li>User can see a list of their following</li>
 <li>User can view other user's profiles and see their photo feed</li>
 
-### 1. User Stories
 ### 2. Screens 
 ### 3. Navigation
 ## Wireframes
