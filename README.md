@@ -3,6 +3,7 @@
 - [Overview](#overview)
 - [Product Spec](#product-spec)
 - [Wireframes](#wireframes)
+- [Schema](#schema)
 ## Overview
 ### Description
 
@@ -20,7 +21,7 @@ The Rattler Life Hacks app is a comprehensive platform designed to enhance the s
 
 #### Required Must-have Stories
 
-<p>For Rattlers LifeHacks, we identified the following "must-have" features which a user needs to be able to perform for the app to work:</p>
+<p>For Rattlers LifeHacks, we identified the following "must-have" features that a user needs to be able to perform for the app to work:</p>
 
 <ul> 
 <li>User can post their campus events</li>
@@ -94,3 +95,35 @@ The Rattler Life Hacks app is a comprehensive platform designed to enhance the s
 ### Digital Wireframe
 ![Screen Shot 2024-10-05 at 4 20 14 PM](https://github.com/user-attachments/assets/315411f5-6e2a-4399-b914-45b3ae02033e)
 
+## Schema
+# Models 
+# Post
+
+| Property | Type | Desscription |
+| ----------- | ----------- | --------|
+| objectId | String | unique id for registration purposes (default field)|
+| author | pointer to the user | image author |
+| image | File | image that organization posts |
+| caption | String | image caption made by author |
+| registerCount | Number | number of registrations for the post|
+| createdAt | DateTime | date when post is created (default field) |
+| updatedAt | DateTime | date when post is updated (default field)| 
+| locationId | String | unique id for event location |
+| locationName | pointer to the locationId | name of event location |
+
+# Networking 
+
+- Home Screen
+    - (Read/GET) Events list
+    - (Update/PUT) Organizations can add events 
+    - (Update) Mark attendance
+- Rattler Card Screen
+    - (Read/GET) Rattler Card / Meal Plan information
+- Wait Time Screen
+    - (Read/GET) Wait time statistics
+    - (Update) Queue information
+- Calendar Screen
+    - (Update) weekly schedule
+    - (Read/GET) Existing entries
+- Study Room Pop-Up
+    - (Read/GET) study room availability
