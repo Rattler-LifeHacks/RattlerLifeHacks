@@ -4,6 +4,7 @@
 - [Product Spec](#product-spec)
 - [Wireframes](#wireframes)
 - [Schema](#schema)
+- [Backend Demonstration] (#backend-and-api-demonstration-gif)
 ## Overview
 ### Description
 
@@ -131,6 +132,6 @@ The Rattler Life Hacks app is a comprehensive platform designed to enhance the s
     - (Read/GET) study room availability
  
 ## Backend & API Demonstration (GIF)
-For the Rattler Life Hacks app, I developed a User model class in IntelliJ, which represents user data and interactions with Firebase. I included a unique service key for enhanced identification, along with two core methods: getAllUsers and getUserById. These methods are structured as service and controller files, establishing the key user interactions for retrieving all users or individual user data based on ID. Through these queries to the Firebase database, the app can efficiently access and manage user information, aligning with the app's back-end functionality requirements.
-(https://github.com/Rattler-LifeHacks/RattlerLifeHacks/blob/main/giphy.mp4)
+For the Rattler Life Hacks app, I developed a User model class in IntelliJ, which represents user data and interactions with Firebase. I included a unique service key for enhanced identification, along with two core methods: getAllUsers and getUserById. These methods are structured as service and controller files, establishing the key user interactions for retrieving all users or individual user data based on ID. Through these queries to the Firebase database, the app can efficiently access and manage user information, aligning with the app's back-end functionality requirements.![App Demo](https://github.com/Rattler-LifeHacks/RattlerLifeHacks/blob/main/giphy.gif)
+![App Demo](https://github.com/Rattler-LifeHacks/RattlerLifeHacks/blob/main/giphy.gif)
 
