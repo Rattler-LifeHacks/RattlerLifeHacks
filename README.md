@@ -24,6 +24,8 @@ The Rattler Life Hacks app is a comprehensive platform designed to enhance the s
 <p>For Rattlers LifeHacks, we identified the following "must-have" features that a user needs to be able to perform for the app to work:</p>
 
 <ul> 
+<li> Get all users [Complete]
+<li> Get user Id [Complete]
 <li>User can post their campus events</li>
 <li>User can create a new organization account</li>
 <li>User can create a new student account</li>
